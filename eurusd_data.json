@@ -1,0 +1,157 @@
+{
+  "eurusd_data": {
+    "symbol": "EURUSD=X",
+    "current_price": 1.1609008312225342,
+    "timestamp": "2025-06-25T13:41:09.842580",
+    "info": {
+      "maxAge": 86400,
+      "priceHint": 4,
+      "previousClose": 1.1613053,
+      "open": 1.1614401,
+      "dayLow": 1.1594203,
+      "dayHigh": 1.1634672,
+      "regularMarketPreviousClose": 1.1613053,
+      "regularMarketOpen": 1.1614401,
+      "regularMarketDayLow": 1.1594203,
+      "regularMarketDayHigh": 1.1634672,
+      "volume": 0,
+      "regularMarketVolume": 0,
+      "averageVolume": 0,
+      "averageVolume10days": 0,
+      "averageDailyVolume10Day": 0,
+      "bid": 1.1609008,
+      "ask": 1.1602274,
+      "bidSize": 0,
+      "askSize": 0,
+      "fiftyTwoWeekLow": 1.0183818,
+      "fiftyTwoWeekHigh": 1.163589,
+      "fiftyDayAverage": 1.1364021,
+      "twoHundredDayAverage": 1.0827012,
+      "currency": "USD",
+      "tradeable": false,
+      "quoteType": "CURRENCY",
+      "symbol": "EURUSD=X",
+      "language": "en-US",
+      "region": "US",
+      "typeDisp": "Currency",
+      "quoteSourceName": "Delayed Quote",
+      "triggerable": true,
+      "customPriceAlertConfidence": "HIGH",
+      "shortName": "EUR/USD",
+      "longName": "EUR/USD",
+      "regularMarketChange": -0.00040447712,
+      "regularMarketChangePercent": -0.03482184,
+      "regularMarketPrice": 1.1609008,
+      "fiftyDayAverageChange": -0.018570185,
+      "fiftyDayAverageChangePercent": -0.01634121,
+      "twoHundredDayAverageChange": -0.062215805,
+      "twoHundredDayAverageChangePercent": -0.057463504,
+      "sourceInterval": 15,
+      "exchangeDataDelayedBy": 0,
+      "cryptoTradeable": false,
+      "hasPrePostMarketData": false,
+      "firstTradeDateMilliseconds": 1070236800000,
+      "regularMarketDayRange": "1.1594203 - 1.1634672",
+      "fullExchangeName": "CCY",
+      "averageDailyVolume3Month": 0,
+      "fiftyTwoWeekLowChange": 0.0019900203,
+      "fiftyTwoWeekLowChangePercent": 0.0019541003,
+      "fiftyTwoWeekRange": "1.0183818 - 1.163589",
+      "fiftyTwoWeekHighChange": -0.12054998,
+      "fiftyTwoWeekHighChangePercent": -0.10360185,
+      "fiftyTwoWeekChangePercent": -7.66809,
+      "marketState": "REGULAR",
+      "corporateActions": [],
+      "regularMarketTime": 1750848039,
+      "exchange": "CCY",
+      "messageBoardId": "finmb_EUR_X",
+      "exchangeTimezoneName": "Europe/London",
+      "exchangeTimezoneShortName": "BST",
+      "gmtOffSetMilliseconds": 3600000,
+      "market": "ccy_market",
+      "esgPopulated": false,
+      "trailingPegRatio": null
+    },
+    "historical_data": "                               Open      High       Low     Close  Volume  Dividends  Stock Splits\nDatetime                                                                                          \n2025-06-25 00:00:00+01:00  1.161170  1.161440  1.161170  1.161440       0        0.0           0.0\n2025-06-25 00:15:00+01:00  1.161440  1.161845  1.161440  1.161575       0        0.0           0.0\n2025-06-25 00:30:00+01:00  1.161575  1.161845  1.161440  1.161710       0        0.0           0.0\n2025-06-25 00:45:00+01:00  1.161710  1.161845  1.161440  1.161575       0        0.0           0.0\n2025-06-25 01:00:00+01:00  1.161440  1.162520  1.161440  1.162115       0        0.0           0.0\n2025-06-25 01:15:00+01:00  1.162250  1.162520  1.162115  1.162520       0        0.0           0.0\n2025-06-25 01:30:00+01:00  1.162520  1.162520  1.162250  1.162250       0        0.0           0.0\n2025-06-25 01:45:00+01:00  1.162250  1.162926  1.162250  1.162926       0        0.0           0.0\n2025-06-25 02:00:00+01:00  1.162926  1.163467  1.162791  1.163196       0        0.0           0.0\n2025-06-25 02:15:00+01:00  1.163061  1.163061  1.162520  1.162520       0        0.0           0.0\n2025-06-25 02:30:00+01:00  1.162250  1.162926  1.162250  1.162926       0        0.0           0.0\n2025-06-25 02:45:00+01:00  1.162791  1.163196  1.162791  1.163196       0        0.0           0.0\n2025-06-25 03:00:00+01:00  1.163196  1.163196  1.162791  1.162926       0        0.0           0.0\n2025-06-25 03:15:00+01:00  1.162926  1.162926  1.162520  1.162791       0        0.0           0.0\n2025-06-25 03:30:00+01:00  1.162791  1.162791  1.162385  1.162520       0        0.0           0.0\n2025-06-25 03:45:00+01:00  1.162385  1.162520  1.162115  1.162385       0        0.0           0.0\n2025-06-25 04:00:00+01:00  1.162385  1.162385  1.162115  1.162250       0        0.0           0.0\n2025-06-25 04:15:00+01:00  1.162250  1.162520  1.162250  1.162520       0        0.0           0.0\n2025-06-25 04:30:00+01:00  1.162520  1.162520  1.162250  1.162385       0        0.0           0.0\n2025-06-25 04:45:00+01:00  1.162385  1.162385  1.161440  1.161575       0        0.0           0.0\n2025-06-25 05:00:00+01:00  1.161575  1.161845  1.161575  1.161845       0        0.0           0.0\n2025-06-25 05:15:00+01:00  1.161845  1.162115  1.161845  1.161845       0        0.0           0.0\n2025-06-25 05:30:00+01:00  1.161845  1.161980  1.161710  1.161710       0        0.0           0.0\n2025-06-25 05:45:00+01:00  1.161710  1.161710  1.161575  1.161710       0        0.0           0.0\n2025-06-25 06:00:00+01:00  1.161575  1.161845  1.161575  1.161710       0        0.0           0.0\n2025-06-25 06:15:00+01:00  1.161710  1.161710  1.161305  1.161440       0        0.0           0.0\n2025-06-25 06:30:00+01:00  1.161575  1.162115  1.161440  1.162115       0        0.0           0.0\n2025-06-25 06:45:00+01:00  1.162250  1.162250  1.161845  1.162250       0        0.0           0.0\n2025-06-25 07:00:00+01:00  1.162115  1.162115  1.161710  1.161980       0        0.0           0.0\n2025-06-25 07:15:00+01:00  1.161980  1.162520  1.161845  1.162250       0        0.0           0.0\n2025-06-25 07:30:00+01:00  1.162115  1.162250  1.161710  1.161710       0        0.0           0.0\n2025-06-25 07:45:00+01:00  1.161980  1.161980  1.161036  1.161036       0        0.0           0.0\n2025-06-25 08:00:00+01:00  1.160766  1.160901  1.160497  1.160766       0        0.0           0.0\n2025-06-25 08:15:00+01:00  1.160766  1.161170  1.160631  1.161036       0        0.0           0.0\n2025-06-25 08:30:00+01:00  1.160901  1.161170  1.160497  1.161170       0        0.0           0.0\n2025-06-25 08:45:00+01:00  1.161036  1.161036  1.159420  1.160362       0        0.0           0.0\n2025-06-25 09:00:00+01:00  1.160362  1.160362  1.159824  1.160227       0        0.0           0.0\n2025-06-25 09:15:00+01:00  1.159958  1.160362  1.159824  1.160362       0        0.0           0.0\n2025-06-25 09:30:00+01:00  1.160227  1.160901  1.160227  1.160901       0        0.0           0.0\n2025-06-25 09:45:00+01:00  1.161036  1.161440  1.161036  1.161305       0        0.0           0.0\n2025-06-25 10:00:00+01:00  1.161440  1.161440  1.160497  1.160497       0        0.0           0.0\n2025-06-25 10:15:00+01:00  1.160497  1.160497  1.159958  1.159958       0        0.0           0.0\n2025-06-25 10:30:00+01:00  1.160093  1.160093  1.159689  1.159824       0        0.0           0.0\n2025-06-25 10:45:00+01:00  1.159824  1.160362  1.159824  1.160362       0        0.0           0.0\n2025-06-25 11:00:00+01:00  1.160497  1.160497  1.160093  1.160362       0        0.0           0.0\n2025-06-25 11:15:00+01:00  1.160497  1.161170  1.160497  1.161036       0        0.0           0.0\n2025-06-25 11:30:00+01:00  1.161036  1.161036  1.160631  1.160901       0        0.0           0.0",
+    "period": "1d",
+    "interval": "15m"
+  },
+  "news_data": [
+    {
+      "title": "Analyst Report: FedEx Corporation",
+      "link": "",
+      "timestamp": "Recent",
+      "source": "Yahoo Finance",
+      "category": "Finance"
+    },
+    {
+      "title": "European No.2 Toyota outsold by Škoda",
+      "link": "",
+      "timestamp": "Recent",
+      "source": "Yahoo Finance",
+      "category": "Finance"
+    },
+    {
+      "title": "Dollar drops on Middle East optimism, euro highest since 2021",
+      "link": "",
+      "timestamp": "Recent",
+      "source": "Yahoo Finance",
+      "category": "Finance"
+    }
+  ],
+  "market_data": null,
+  "analysis": {
+    "current_price": 1.1609008312225342,
+    "period_high": 1.1634671688079834,
+    "period_low": 1.1594202518463135,
+    "average_price": 1.16165902259502,
+    "volatility": 0.0008947746062771846,
+    "volume_avg": 0.0,
+    "trend_direction": "Downward",
+    "resistance_level": 1.1634671688079834,
+    "support_level": 1.1594202518463135
+  },
+  "economic_events": [
+    {
+      "time": "08:30 EST",
+      "event": "US Initial Jobless Claims",
+      "currency": "USD",
+      "impact": "Medium",
+      "forecast": "TBD",
+      "previous": "TBD"
+    },
+    {
+      "time": "10:00 EST",
+      "event": "Eurozone CPI Flash Estimate",
+      "currency": "EUR",
+      "impact": "High",
+      "forecast": "TBD",
+      "previous": "TBD"
+    },
+    {
+      "time": "14:00 EST",
+      "event": "Federal Reserve Speech",
+      "currency": "USD",
+      "impact": "High",
+      "forecast": "N/A",
+      "previous": "N/A"
+    }
+  ],
+  "crypto_data": {
+    "BTC-USD": {
+      "current_price": 107019.4296875,
+      "change": 973.796875,
+      "change_percent": 0.9182809788327415
+    },
+    "ETH-USD": {
+      "current_price": 2426.3251953125,
+      "change": -21.68359375,
+      "change_percent": -0.8857645383823988
+    },
+    "XRP-USD": {
+      "current_price": 2.188298463821411,
+      "change": -0.0025174617767333984,
+      "change_percent": -0.11490978074965709
+    }
+  }
+}
